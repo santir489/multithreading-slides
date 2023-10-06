@@ -51,6 +51,8 @@ function App() {
         <slides.CoverPage />
 
         <slides.Agenda />
+        <slides.ThreadsProcess />
+        <slides.ConcurrenciaParalelismo />
 
         <slides.Vertical />
 
