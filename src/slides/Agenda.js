@@ -6,8 +6,14 @@ function Agenda() {
       <h3>Agenda</h3>
 
       <ul>
-        <li>Topic 1</li>
-        <li>&quot;Topic&quot; 2</li>
+        <li>Thread vs Process</li>
+        <li>Concurrencia vs Paralelismo</li>
+        <li>Threads en Ruby</li>
+        <li>Race conditions</li>
+        <li>GIL</li>
+        <li>Herramientas que prove ruby</li>
+        <li>Concluciones</li>
+        <li>Q&A</li>
       </ul>
     </section>
   );
