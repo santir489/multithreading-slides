@@ -1,5 +1,5 @@
 {
-  "name": "rs-slides-template",
+  "name": "multithreading",
   "version": "0.1.0",
   "dependencies": {
     "react": "^18.2.0",
