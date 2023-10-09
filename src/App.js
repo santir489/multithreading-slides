@@ -54,6 +54,7 @@ function App() {
         <slides.ThreadsProcess />
         <slides.ConcurrenciaParalelismo />
         <slides.Threadnew />
+        <slides.Gil />
 
         <slides.Vertical />
 
