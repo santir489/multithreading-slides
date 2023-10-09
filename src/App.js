@@ -53,6 +53,7 @@ function App() {
         <slides.Agenda />
         <slides.ThreadsProcess />
         <slides.ConcurrenciaParalelismo />
+        <slides.Threadnew />
 
         <slides.Vertical />
 

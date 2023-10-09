@@ -20,10 +20,6 @@ function ConcurrenciaParalelismo() {
             Segunda imagen, si fueran 2 desaroolladores,
             la tarea 1 y tarea 2 se pueden ejecutar en paralelo
           </p>
-
-          <p>
-            Mostrar ejemplo 01.rb
-          </p>
         </aside>
       </section>
     </section>
